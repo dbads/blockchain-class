@@ -62,5 +62,5 @@ Ubuntu users can use the `install.sh` script to install all the packages
 
 
 
-
+Please add the steps to run the app?
 
